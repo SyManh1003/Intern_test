@@ -1,5 +1,5 @@
 # G-Sneaker TEST
-![Screenshot](./screenshots/screenshot.jpg)
+![Screenshot](./screenshots/Screenshot.jpg)
 
 Link project: https://github.com/SyManh1003/Intern_test
 
