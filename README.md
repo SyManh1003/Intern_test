@@ -2,7 +2,7 @@
 
 This is the instruction for PHP web developer intern assignment at [Golden Owl](https://goldenowl.asia). You will build a simple shopping cart.
 
-![Screenshot](./screenshots/screenshot.jpg)
+![Screenshot](./screenshots/Screenshot.jpg)
 
 [Live Demo](https://gshoes.vercel.app)
 
