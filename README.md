@@ -1,5 +1,6 @@
 # G-Sneaker TEST
-![Screenshot](./screenshots/Screenshot.jpg)
+![Screenshot](https://github.com/SyManh1003/Intern_test/assets/103646940/2010ae37-b1e7-4dec-bd92-f1ce4fbdeeda)
+
 
 Link project: https://github.com/SyManh1003/Intern_test
 
